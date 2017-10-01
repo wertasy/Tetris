@@ -1,0 +1,9 @@
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
